@@ -7,5 +7,5 @@ Fenwick Tree
 Sparse Table
 Disjoint Set Union(DSU)
 
-All except DSU are used in to calculate range queries.
+All except DSU are used to calculate range queries.
 DSU is used to solve queries related to dynamic graphs.
