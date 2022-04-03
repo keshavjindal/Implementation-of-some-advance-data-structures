@@ -1,4 +1,4 @@
-# ADVANCE-DATA-STRUCTURES-LIBRARY
+# Implementation of some advance data structures
 
 I have implemented four data structures in Java.
 
