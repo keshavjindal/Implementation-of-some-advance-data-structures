@@ -2,7 +2,7 @@
 
 I have implemented four data structures in Java.
 
-Segment Tree
+Segment Tree \n
 Fenwick Tree
 Sparse Table
 Disjoint Set Union(DSU)
